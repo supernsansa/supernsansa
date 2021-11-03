@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supernsansa
 - 👀 I’m interested in software engineering mostly
-- 🌱 I’m currently learning backend developments (Spring, MongoDB, etc)
+- 🌱 I’m currently learning about backend development (Spring, MongoDB, etc)
 - 💞️ I’m looking to collaborate on nothing ATM
 - 📫 How to reach me -> my email: supernsansa@gmail.com
 
